@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed for **Vego Global** (by Data Pioneers
 ## 📊 Project Overview
 The primary objective of this dashboard is to provide a comprehensive view of Vego Global's bicycle and accessory sales. It features a custom navigation experience and divides key metrics into three distinct analytical areas: **Products**, **Customers**, and **Countries**.
 
-![Landing Page](POWER-BI-interactive-dash-board-for-ecomerce-company/assets/1.PNG)
+![Landing Page](assets/1.PNG)
 
 ## 🗄️ Data Model
 The project utilizes a robust **Star Schema** data model to ensure efficient querying and dynamic cross-filtering across all reports. 
