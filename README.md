@@ -27,7 +27,7 @@ The project utilizes a robust **Star Schema** data model to ensure efficient que
 ### 1. Product Dashboard
 Focuses on inventory performance, profitability by model, and trending product categories.
 
-![Product Dashboard](assets/2.PNG)
+![Product Dashboard](assets/22.PNG)
 
 *   **Key KPIs:** Minimum Unit Price, Total Profit (12.01M), and Total Orders (60K).
 *   **Trend Analysis:** A chronological view of total profit by year and month.
