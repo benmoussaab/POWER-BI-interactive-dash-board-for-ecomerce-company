@@ -10,7 +10,7 @@ The primary objective of this dashboard is to provide a comprehensive view of Ve
 ## 🗄️ Data Model
 The project utilizes a robust **Star Schema** data model to ensure efficient querying and dynamic cross-filtering across all reports. 
 
-![Data Model](POWER-BI-interactive-dash-board-for-ecomerce-company/assets/model.PNG)
+![Data Model](assets/model.PNG)
 
 *   **Fact Table:** `factInternetSales` (Central table containing transactional data, order quantities, and profit metrics).
 *   **Dimension Tables:** 
@@ -27,7 +27,7 @@ The project utilizes a robust **Star Schema** data model to ensure efficient que
 ### 1. Product Dashboard
 Focuses on inventory performance, profitability by model, and trending product categories.
 
-![Product Dashboard](POWER-BI-interactive-dash-board-for-ecomerce-company/assets/2.PNG)
+![Product Dashboard](assets/2.PNG)
 
 *   **Key KPIs:** Minimum Unit Price, Total Profit (12.01M), and Total Orders (60K).
 *   **Trend Analysis:** A chronological view of total profit by year and month.
@@ -36,7 +36,7 @@ Focuses on inventory performance, profitability by model, and trending product c
 ### 2. Customer Dashboard
 Analyzes the demographic profile of the 18K+ customer base to understand purchasing behaviors.
 
-![Customer Dashboard](POWER-BI-interactive-dash-board-for-ecomerce-company/assets/3.PNG)
+![Customer Dashboard](assets/3.PNG)
 
 *   **Demographic Slicers:** Users can filter by Age Group, Yearly Income, Marital Status, Children at Home, and Cars Owned.
 *   **Customer Segmentation:** Donut charts breaking down customers by Education, Occupation, and Income Brackets.
@@ -45,7 +45,7 @@ Analyzes the demographic profile of the 18K+ customer base to understand purchas
 ### 3. Country Dashboard
 Provides a geographic breakdown of global sales performance and regional profitability.
 
-![Country Dashboard](POWER-BI-interactive-dash-board-for-ecomerce-company/assets/4.PNG)
+![Country Dashboard](assets/4.PNG)
 
 *   **Global Reach:** Analyzes metrics across the United States, Australia, United Kingdom, Germany, France, and Canada.
 *   **Regional Trends:** Line charts comparing total profit over time for each specific sales territory.
