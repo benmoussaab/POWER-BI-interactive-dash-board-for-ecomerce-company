@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed for **Vego Global** (by Data Pioneers
 ## 📊 Project Overview
 The primary objective of this dashboard is to provide a comprehensive view of Vego Global's bicycle and accessory sales. It features a custom navigation experience and divides key metrics into three distinct analytical areas: **Products**, **Customers**, and **Countries**.
 
-![Landing Page](assets/1.PNG)
+![Landing Page](assets/0.PNG)
 
 ## 🗄️ Data Model
 The project utilizes a robust **Star Schema** data model to ensure efficient querying and dynamic cross-filtering across all reports. 
@@ -27,7 +27,7 @@ The project utilizes a robust **Star Schema** data model to ensure efficient que
 ### 1. Product Dashboard
 Focuses on inventory performance, profitability by model, and trending product categories.
 
-![Product Dashboard](assets/22.PNG)
+![Product Dashboard](assets/1.PNG)
 
 *   **Key KPIs:** Minimum Unit Price, Total Profit (12.01M), and Total Orders (60K).
 *   **Trend Analysis:** A chronological view of total profit by year and month.
